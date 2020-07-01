@@ -1,0 +1,9 @@
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Core\obj\Debug\netcoreapp3.1\Core.pdb

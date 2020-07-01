@@ -1,0 +1,15 @@
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\.Net Core Full stack projects\MasterBasket\MasterBasketApi\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
