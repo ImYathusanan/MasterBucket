@@ -35,6 +35,7 @@ namespace MasterBasketApi
                         options.UseSqlServer(Configuration.GetConnectionString("DefaultConnetion")));
             services.AddScoped<IUnitOfWork, UnitOfWOrk>();
             services.AddAutoMapper(typeof(Mapping));
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,11 +46,15 @@ namespace MasterBasketApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(c => c.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors();
 
             app.UseEndpoints(endpoints =>
             {
